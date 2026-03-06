@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0877-stone-game](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0877-stone-game/) | Medium |
 | [1535-find-the-winner-of-an-array-game](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
@@ -34,4 +35,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
