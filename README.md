@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0877-stone-game](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0877-stone-game/) | Medium |
 | [2928-distribute-candies-among-children-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2928-distribute-candies-among-children-i/) | Easy |
+| [3870-count-commas-in-range](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3870-count-commas-in-range/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
