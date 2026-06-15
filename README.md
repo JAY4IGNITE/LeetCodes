@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0877-stone-game/) | Medium |
 | [2928-distribute-candies-among-children-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2928-distribute-candies-among-children-i/) | Easy |
 | [3870-count-commas-in-range](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3870-count-commas-in-range/) | Easy |
+| [3894-traffic-signal-color](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3894-traffic-signal-color/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1535-find-the-winner-of-an-array-game](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
+| [3894-traffic-signal-color](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3894-traffic-signal-color/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0139-word-break/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [3894-traffic-signal-color](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3894-traffic-signal-color/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
