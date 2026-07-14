@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0139-word-break/) | Medium |
+| [0709-to-lower-case](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0709-to-lower-case/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3894-traffic-signal-color](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3894-traffic-signal-color/) | Easy |
