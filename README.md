@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0877-stone-game/) | Medium |
 | [1535-find-the-winner-of-an-array-game](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
