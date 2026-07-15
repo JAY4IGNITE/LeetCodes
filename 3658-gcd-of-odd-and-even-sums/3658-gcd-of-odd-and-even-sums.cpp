@@ -1,13 +1,16 @@
 class Solution {
 public:
     int gcdOfOddEvenSums(int n) {
-        int sum=0,sum1=0;
-        for(int i=1;i<=n;i++){
-            sum+=(2*i)-1;
+        int even = 0  , odd = 0;
+        for(int i=1;i<=n*2;i++){
+            if(i%2==0){
+                even+=i;
+            }
+            else{
+                odd+=i;
+            }
         }
-        for(int i=1;i<=n;i++){
-            sum1+=2*i;
-        }
-        return gcd(sum,sum1);
+        int ans = gcd(odd,even);
+        return ans;
     }
 };
