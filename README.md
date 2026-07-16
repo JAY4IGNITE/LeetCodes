@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3266-final-array-state-after-k-multiplication-operations-ii/) | Hard |
 | [3643-flip-square-submatrix-vertically](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1535-find-the-winner-of-an-array-game](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
+| [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3266-final-array-state-after-k-multiplication-operations-ii/) | Hard |
 | [3894-traffic-signal-color](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3894-traffic-signal-color/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
@@ -120,4 +122,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3266-final-array-state-after-k-multiplication-operations-ii/) | Hard |
 <!---LeetCode Topics End-->
