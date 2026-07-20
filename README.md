@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0877-stone-game](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0877-stone-game/) | Medium |
+| [1260-shift-2d-grid](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1260-shift-2d-grid/) | Easy |
 | [1535-find-the-winner-of-an-array-game](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1260-shift-2d-grid/) | Easy |
 | [1535-find-the-winner-of-an-array-game](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3266-final-array-state-after-k-multiplication-operations-ii/) | Hard |
 | [3894-traffic-signal-color](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3894-traffic-signal-color/) | Easy |
@@ -61,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1260-shift-2d-grid/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
