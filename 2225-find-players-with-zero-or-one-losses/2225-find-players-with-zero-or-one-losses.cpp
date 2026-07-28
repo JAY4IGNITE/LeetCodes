@@ -1,17 +1,17 @@
 class Solution {
 public:
     vector<vector<int>> findWinners(vector<vector<int>>& matches) {
-        map<int, int> loss;
+        map<int, int> mp;
         for (auto &match : matches) {
-            int winner = match[0];
-            int loser = match[1];
-            if (loss.find(winner) == loss.end())
-                loss[winner] = 0;
+            int win = match[0];
+            int loss = match[1];
+            if (mp.find(win) == mp.end())
+                mp[win] = 0;
 
-            loss[loser]++;
+            mp[loss]++;
         }
         vector<vector<int>> ans(2);
-        for (auto &x : loss) {
+        for (auto &x : mp) {
             if (x.second == 0)
                 ans[0].push_back(x.first);
             else if (x.second == 1)
