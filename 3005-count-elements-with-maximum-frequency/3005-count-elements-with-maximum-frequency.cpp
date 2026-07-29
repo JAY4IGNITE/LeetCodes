@@ -6,7 +6,6 @@ public:
             m[nums[i]]++;
         }
         int maxi = INT_MIN;
-        vector<int>a;
         int ans = 0;
         for(auto x:m) {
             if(x.second>maxi)
