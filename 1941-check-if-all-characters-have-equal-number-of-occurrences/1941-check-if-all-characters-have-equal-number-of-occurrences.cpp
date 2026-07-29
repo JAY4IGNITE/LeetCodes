@@ -1,16 +1,14 @@
 class Solution {
 public:
     bool areOccurrencesEqual(string s) {
-        map<char,int>m;
-        for(int i=0;i<s.size();i++){
-            m[s[i]]++;
+        map<char,int> m;
+        for(auto x:s){
+            m[x]++;
         }
-        vector<int>a;
+        set<int> a;
         for(auto x:m){
-            a.push_back(x.second);
+            a.insert(x.second);
         }
-        set<int>st(a.begin(),a.end());
-        if(st.size()==1) return 1;
-        return 0;
+        return a.size()==1;
     }
 };
