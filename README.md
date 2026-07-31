@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-find-the-difference-of-two-arrays](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2363-merge-similar-items](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2363-merge-similar-items/) | Easy |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3266-final-array-state-after-k-multiplication-operations-ii/) | Hard |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2225-find-players-with-zero-or-one-losses](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2363-merge-similar-items](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2363-merge-similar-items/) | Easy |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0392-is-subsequence/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
