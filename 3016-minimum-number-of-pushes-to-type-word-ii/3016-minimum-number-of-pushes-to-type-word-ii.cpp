@@ -1,18 +1,18 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        map<char,int> mp;
+        vector<int> a;
+        map<char,int> m;
         for(auto x:word){
-            mp[x]++;
+            m[x]++;
         }
-        vector<int>a;
-        for(auto x:mp){
+        for(auto x:m){
             a.push_back(x.second);
         }
-        int ans = 0;
         sort(a.rbegin(),a.rend());
+        int ans = 0;
         for(int i=0;i<a.size();i++){
-            ans += a[i]*((i/8)+1);
+            ans += a[i]*(i/8+1);
         }
         return ans;
     }
