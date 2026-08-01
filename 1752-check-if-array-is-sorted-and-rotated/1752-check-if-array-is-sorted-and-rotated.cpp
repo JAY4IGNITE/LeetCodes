@@ -9,9 +9,8 @@ public:
             }
             else continue;
         }
-        if(nums[n-1]>nums[0]) cnt+=1;
-        cout << cnt;
-        if(cnt>1) return 0;
+        if(nums[n-1]>nums[0]) cnt++;
+        if(cnt > 1) return 0;
         return 1;
     }
 };
