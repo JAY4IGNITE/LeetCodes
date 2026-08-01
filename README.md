@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0486-predict-the-winner](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0877-stone-game](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0877-stone-game/) | Medium |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0877-stone-game/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
@@ -55,10 +57,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0139-word-break](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0139-word-break/) | Medium |
 | [0392-is-subsequence](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0392-is-subsequence/) | Easy |
+| [0486-predict-the-winner](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0877-stone-game/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0877-stone-game/) | Medium |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
 ## Simulation
@@ -224,4 +228,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2363-merge-similar-items](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2363-merge-similar-items/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
