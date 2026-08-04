@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2363-merge-similar-items](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2363-merge-similar-items/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3266-final-array-state-after-k-multiplication-operations-ii/) | Hard |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2363-merge-similar-items](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2363-merge-similar-items/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
