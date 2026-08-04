@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2225-find-players-with-zero-or-one-losses](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2363-merge-similar-items](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2363-merge-similar-items/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3266-final-array-state-after-k-multiplication-operations-ii/) | Hard |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2351-first-letter-to-appear-twice](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2363-merge-similar-items](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2363-merge-similar-items/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1009-complement-of-base-10-integer](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
