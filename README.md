@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0392-is-subsequence/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1768-merge-strings-alternately](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -261,4 +264,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0486-predict-the-winner/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 <!---LeetCode Topics End-->
