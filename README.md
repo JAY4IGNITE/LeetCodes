@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0877-stone-game/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2928-distribute-candies-among-children-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2928-distribute-candies-among-children-i/) | Easy |
