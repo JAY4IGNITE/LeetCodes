@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0015-3sum/) | Medium |
 | [0048-rotate-image](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0054-spiral-matrix/) | Medium |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0015-3sum/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0011-container-with-most-water/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
