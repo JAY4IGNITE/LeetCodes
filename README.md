@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0139-word-break](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0139-word-break/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0139-word-break/) | Medium |
 | [0205-isomorphic-strings](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
@@ -236,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0015-3sum/) | Medium |
 | [0242-valid-anagram](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -253,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3266-final-array-state-after-k-multiplication-operations-ii/) | Hard |
 ## Graph Theory
@@ -295,4 +300,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
