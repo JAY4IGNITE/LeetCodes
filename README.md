@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0015-3sum/) | Medium |
+| [0041-first-missing-positive](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0054-spiral-matrix/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0041-first-missing-positive](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0041-first-missing-positive/) | Hard |
 | [0139-word-break](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0139-word-break/) | Medium |
 | [0205-isomorphic-strings](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0242-valid-anagram/) | Easy |
