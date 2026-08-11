@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0877-stone-game](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0877-stone-game/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1260-shift-2d-grid/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
@@ -360,4 +363,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1510-stone-game-iv/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
