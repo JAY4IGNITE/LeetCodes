@@ -1,18 +1,19 @@
 class Solution {
 public:
     // int zeroesCnt(vector<int>& a,int i,int j){
-    //     int cnt = 0;
+    //     int cnt = 0, cnt1 = 0;
     //     for(int p=i;p<j;p++){
     //         if(a[p]==0) cnt++;
+    //         if(a[p]==1) cnt1++;
     //     }
-    //     return cnt;
+    //     return {cnt1,cnt};
     // }
     int longestOnes(vector<int>& nums, int k) {
         // int l = 0;
         // int r = 0;
         // while(){
         //     if(zeroesCnt(nums,l,r)<k){
-
+        //      
         //     }
         // }
         int cnt = 0;
