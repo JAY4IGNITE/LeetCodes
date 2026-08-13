@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0139-word-break](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0139-word-break/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0179-largest-number](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0189-rotate-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0139-word-break](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0179-largest-number](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0179-largest-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -263,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0075-sort-colors/) | Medium |
+| [0179-largest-number](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -295,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0011-container-with-most-water/) | Medium |
+| [0179-largest-number](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0179-largest-number/) | Medium |
 | [0455-assign-cookies](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0455-assign-cookies/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
