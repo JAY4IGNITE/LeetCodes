@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0567-permutation-in-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0567-permutation-in-string/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0455-assign-cookies/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0567-permutation-in-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0567-permutation-in-string/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0392-is-subsequence/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0567-permutation-in-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0567-permutation-in-string/) | Medium |
 | [0709-to-lower-case](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0709-to-lower-case/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
@@ -315,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
