@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0567-permutation-in-string/) | Medium |
 | [0709-to-lower-case](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0709-to-lower-case/) | Easy |
+| [0796-rotate-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0796-rotate-string/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -334,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0796-rotate-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0796-rotate-string/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
