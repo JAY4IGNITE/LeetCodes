@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0054-spiral-matrix/) | Medium |
+| [0066-plus-one](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0048-rotate-image/) | Medium |
+| [0066-plus-one](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0189-rotate-array/) | Medium |
 | [0486-predict-the-winner](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
