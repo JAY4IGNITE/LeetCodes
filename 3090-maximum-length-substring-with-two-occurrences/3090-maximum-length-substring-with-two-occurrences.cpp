@@ -2,10 +2,8 @@ class Solution {
 public:
     int maximumLengthSubstring(string s) {
         int r = 0;
+        map<int,int> mp;
         int maxi = INT_MIN;
-        set<char> st(s.begin(),s.end());
-        int n = st.size();
-        map<char,int> mp;
         for(int i=0;i<s.size();i++){
             mp[s[i]]++;
             while(mp[s[i]]>2&&mp.size()){
