@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0075-sort-colors/) | Medium |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0139-word-break](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0139-word-break/) | Medium |
 | [0392-is-subsequence](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0392-is-subsequence/) | Easy |
@@ -382,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0053-maximum-subarray/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
