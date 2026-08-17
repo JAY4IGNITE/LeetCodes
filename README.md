@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0139-word-break/) | Medium |
 | [0162-find-peak-element](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0162-find-peak-element/) | Medium |
 | [0164-maximum-gap](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0164-maximum-gap/) | Medium |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0041-first-missing-positive](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0139-word-break/) | Medium |
 | [0205-isomorphic-strings](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0205-isomorphic-strings/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -452,4 +454,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
