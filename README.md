@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0724-find-pivot-index](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0724-find-pivot-index/) | Easy |
 | [0877-stone-game](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0877-stone-game/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1260-shift-2d-grid/) | Easy |
@@ -461,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Radix Sort
