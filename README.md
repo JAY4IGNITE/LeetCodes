@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3643-flip-square-submatrix-vertically](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3146-permutation-difference-between-two-strings](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Matrix
