@@ -415,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0155-min-stack/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -499,5 +500,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0155-min-stack/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
