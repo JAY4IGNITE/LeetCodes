@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1535-find-the-winner-of-an-array-game](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0054-spiral-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1260-shift-2d-grid/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
