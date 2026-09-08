@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0682-baseball-game](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0724-find-pivot-index/) | Easy |
 | [0877-stone-game](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0877-stone-game/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0054-spiral-matrix/) | Medium |
+| [0682-baseball-game](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0682-baseball-game/) | Easy |
 | [1260-shift-2d-grid](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1260-shift-2d-grid/) | Easy |
 | [1535-find-the-winner-of-an-array-game](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -417,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0155-min-stack](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0155-min-stack/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0682-baseball-game](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0682-baseball-game/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Bracket Sequences
