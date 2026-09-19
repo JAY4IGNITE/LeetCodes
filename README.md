@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0877-stone-game/) | Medium |
 | [1510-stone-game-iv](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1510-stone-game-iv/) | Hard |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
@@ -519,4 +520,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0155-min-stack](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0155-min-stack/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
