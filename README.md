@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0622-design-circular-queue](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0622-design-circular-queue/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0682-baseball-game/) | Easy |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0622-design-circular-queue](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0622-design-circular-queue/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -520,8 +522,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0155-min-stack](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0155-min-stack/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0622-design-circular-queue](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0622-design-circular-queue/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0836-rectangle-overlap/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0622-design-circular-queue](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0622-design-circular-queue/) | Medium |
 <!---LeetCode Topics End-->
