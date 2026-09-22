@@ -288,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0567-permutation-in-string/) | Medium |
+| [0649-dota2-senate](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0649-dota2-senate/) | Medium |
 | [0709-to-lower-case](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0709-to-lower-case/) | Easy |
 | [0796-rotate-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0796-rotate-string/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -388,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0409-longest-palindrome/) | Easy |
 | [0455-assign-cookies](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0455-assign-cookies/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0649-dota2-senate](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0649-dota2-senate/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
@@ -534,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0622-design-circular-queue/) | Medium |
+| [0649-dota2-senate](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0933-number-of-recent-calls/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Data Stream
