@@ -1,24 +1,16 @@
 class Solution {
 public:
     int smallestIndex(vector<int>& nums) {
-        vector<int>a;
         for(int i=0;i<nums.size();i++){
-            int temp=nums[i];
             int sum=0;
+            int temp=nums[i];
             while(temp!=0){
-                int rem = temp%10;
-                sum +=rem;
+                int rem=temp%10;
+                sum+=rem;
                 temp/=10;
             }
-            a.push_back(sum);
+            if(sum==i) return i;
         }
-        int cnt=-1;
-        for(int i=0;i<a.size();i++){
-            if(a[i]==i){
-                cnt = i;
-                break;
-            }
-        }
-        return cnt;
+        return -1;
     }
 };
