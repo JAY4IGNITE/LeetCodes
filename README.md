@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3266-final-array-state-after-k-multiplication-operations-ii/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2965-find-missing-and-repeated-values](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3870-count-commas-in-range](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3870-count-commas-in-range/) | Easy |
