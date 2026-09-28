@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -378,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3266-final-array-state-after-k-multiplication-operations-ii/) | Hard |
@@ -407,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -542,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0622-design-circular-queue](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0622-design-circular-queue/) | Medium |
 | [0649-dota2-senate](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0933-number-of-recent-calls/) | Easy |
@@ -550,4 +554,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0933-number-of-recent-calls/) | Easy |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0239-sliding-window-maximum/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
