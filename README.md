@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+| [3978-unique-middle-element](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3978-unique-middle-element/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -353,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3005-count-elements-with-maximum-frequency](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
+| [3978-unique-middle-element](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3978-unique-middle-element/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
