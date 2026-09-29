@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0622-design-circular-queue](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0622-design-circular-queue/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -436,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0231-power-of-two](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0231-power-of-two/) | Easy |
 | [0486-predict-the-winner](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0486-predict-the-winner/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
