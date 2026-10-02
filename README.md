@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2029-stone-game-ix](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2029-stone-game-ix/) | Medium |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2090-k-radius-subarray-averages/) | Medium |
@@ -375,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2363-merge-similar-items](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2363-merge-similar-items/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -410,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2029-stone-game-ix](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2029-stone-game-ix/) | Medium |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -577,4 +580,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0239-sliding-window-maximum/) | Hard |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 <!---LeetCode Topics End-->
