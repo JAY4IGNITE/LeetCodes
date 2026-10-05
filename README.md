@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0189-rotate-array/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0083-remove-duplicates-from-sorted-list](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0622-design-circular-queue](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0622-design-circular-queue/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## String
@@ -455,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0486-predict-the-winner/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Stack
@@ -462,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0155-min-stack/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0496-next-greater-element-i/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0678-valid-parenthesis-string/) | Medium |
