@@ -312,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0709-to-lower-case](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0709-to-lower-case/) | Easy |
 | [0796-rotate-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0796-rotate-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0856-score-of-parentheses/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -478,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0856-score-of-parentheses/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1472-design-browser-history](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1472-design-browser-history/) | Medium |
@@ -490,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0020-valid-parentheses/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0856-score-of-parentheses/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
