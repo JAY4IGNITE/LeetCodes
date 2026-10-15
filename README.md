@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -618,4 +620,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1472-design-browser-history/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
