@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3471-find-the-largest-almost-missing-integer](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3146-permutation-difference-between-two-strings](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3731-find-missing-elements/) | Easy |
@@ -399,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3731-find-missing-elements/) | Easy |
 ## Number Theory
