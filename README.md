@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -396,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2363-merge-similar-items](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2363-merge-similar-items/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
