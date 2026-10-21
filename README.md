@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1672-richest-customer-wealth](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2029-stone-game-ix](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2029-stone-game-ix/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1641-count-sorted-vowel-strings](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2029-stone-game-ix](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2029-stone-game-ix/) | Medium |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0231-power-of-two/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -356,10 +359,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1641-count-sorted-vowel-strings/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2928-distribute-candies-among-children-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2928-distribute-candies-among-children-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2928-distribute-candies-among-children-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2928-distribute-candies-among-children-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -634,4 +639,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 <!---LeetCode Topics End-->
