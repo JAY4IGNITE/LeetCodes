@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2029-stone-game-ix](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2029-stone-game-ix/) | Medium |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
+| [2409-count-days-spent-together](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2409-count-days-spent-together/) | Easy |
 | [2928-distribute-candies-among-children-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2928-distribute-candies-among-children-i/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -343,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2185-counting-words-with-a-given-prefix](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2409-count-days-spent-together/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
