@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-stone-game-iv](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1510-stone-game-iv/) | Hard |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1641-count-sorted-vowel-strings](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1641-count-sorted-vowel-strings/) | Medium |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2029-stone-game-ix](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2029-stone-game-ix/) | Medium |
