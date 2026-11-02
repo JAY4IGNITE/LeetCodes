@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0496-next-greater-element-i/) | Easy |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0231-power-of-two/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0486-predict-the-winner/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -411,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
