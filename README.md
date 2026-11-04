@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0567-permutation-in-string/) | Medium |
+| [0884-uncommon-words-from-two-sentences](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0709-to-lower-case](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0709-to-lower-case/) | Easy |
 | [0796-rotate-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0796-rotate-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0856-score-of-parentheses/) | Medium |
+| [0884-uncommon-words-from-two-sentences](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -391,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0884-uncommon-words-from-two-sentences](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
