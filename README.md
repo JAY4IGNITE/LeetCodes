@@ -677,4 +677,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0511-game-play-analysis-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0511-game-play-analysis-i/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
