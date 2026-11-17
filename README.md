@@ -300,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0231-power-of-two/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -546,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0053-maximum-subarray/) | Medium |
+| [0191-number-of-1-bits](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0191-number-of-1-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
