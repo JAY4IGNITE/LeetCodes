@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2363-merge-similar-items](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2363-merge-similar-items/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -436,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-find-target-indices-after-sorting-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2363-merge-similar-items](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2363-merge-similar-items/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
@@ -476,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2029-stone-game-ix](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2029-stone-game-ix/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
