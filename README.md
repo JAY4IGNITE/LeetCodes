@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0739-daily-temperatures/) | Medium |
 | [0877-stone-game](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0877-stone-game/) | Medium |
+| [0932-beautiful-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0932-beautiful-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1260-shift-2d-grid/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0728-self-dividing-numbers](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0877-stone-game/) | Medium |
+| [0932-beautiful-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0932-beautiful-array/) | Medium |
 | [1510-stone-game-iv](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1510-stone-game-iv/) | Hard |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1641-count-sorted-vowel-strings](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1641-count-sorted-vowel-strings/) | Medium |
@@ -559,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0053-maximum-subarray/) | Medium |
 | [0191-number-of-1-bits](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0191-number-of-1-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0932-beautiful-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0932-beautiful-array/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
