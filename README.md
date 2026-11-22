@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3870-count-commas-in-range](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3870-count-commas-in-range/) | Easy |
 | [3894-traffic-signal-color](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3894-traffic-signal-color/) | Easy |
 | [3895-count-digit-appearances](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3895-count-digit-appearances/) | Medium |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0877-stone-game/) | Medium |
 | [1510-stone-game-iv](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1510-stone-game-iv/) | Hard |
 | [1641-count-sorted-vowel-strings](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1641-count-sorted-vowel-strings/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -398,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2928-distribute-candies-among-children-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2928-distribute-candies-among-children-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/JAY4IGNITE/LeetCodes/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
