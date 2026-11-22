@@ -361,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2390-removing-stars-from-a-string/) | Medium |
