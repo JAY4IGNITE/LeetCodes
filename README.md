@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
@@ -412,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2029-stone-game-ix](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2029-stone-game-ix/) | Medium |
@@ -506,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
