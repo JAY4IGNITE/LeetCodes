@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0139-word-break/) | Medium |
+| [0141-linked-list-cycle](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0141-linked-list-cycle/) | Easy |
 | [0205-isomorphic-strings](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0205-isomorphic-strings/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0242-valid-anagram/) | Easy |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0088-merge-sorted-array/) | Easy |
+| [0141-linked-list-cycle](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0189-rotate-array/) | Medium |
@@ -339,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0141-linked-list-cycle](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0141-linked-list-cycle/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -734,4 +737,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1587-bank-account-summary-ii](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1587-bank-account-summary-ii/) | Easy |
 | [1683-invalid-tweets](https://github.com/JAY4IGNITE/LeetCodes/tree/main/1683-invalid-tweets/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/JAY4IGNITE/LeetCodes/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/JAY4IGNITE/LeetCodes/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
